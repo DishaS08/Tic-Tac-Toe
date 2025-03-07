@@ -16,28 +16,6 @@ The game announces the winner when a player gets three marks in a row, column, o
 If all spaces are filled without a winner, the game ends in a draw.
 
 
-Example Gameplay
-arduino
-
-|   |   |   |
-|   |   |   |
-|   |   |   |
-
-Your turn player 1
-Enter your move (1-9): 5
-
-|   |   |   |
-|   | X |   |
-|   |   |   |
-
-
-Run the Game
-To play, save the script as tic_tac_toe.py and run:
-
-bash
-python tic_tac_toe.py
-
-
 Requirements
 Python 3.x
 
